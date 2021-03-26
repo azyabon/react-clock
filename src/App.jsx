@@ -37,7 +37,7 @@ class App extends React.Component {
         <div
           className='watch'
         >
-          {this.state.date.toLocaleTimeString()}.
+          {this.state.date.toLocaleTimeString()}
           </div>
       </div>
     );
